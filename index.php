@@ -1,3 +1,3 @@
 <?php
-include_once("dice.html");
+include_once("dicee.html");
 ?>
